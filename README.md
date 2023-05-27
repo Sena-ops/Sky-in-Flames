@@ -16,4 +16,5 @@ Caso não tenha pode baixar o [jogo](https://github.com/Sena-ops/Sky-in-Flames/r
 ## Arts
 All arts by [Bruna Foncesa](https://github.com/Bum4n3d)
 
-
+## License
+[MIT](https://github.com/Sena-ops/Sky-in-Flames/blob/main/LICENSE)
