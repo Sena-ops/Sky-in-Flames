@@ -14,7 +14,7 @@ Voce pode controlar o avião nas setas e atirar no espaço.
 
 Se tiver o opera gx baixado basta entra nesste [link](https://gx.games/pt-br/games/e8fwty/sky-in-flames/) e começar a jogar.
 
-Caso não tenha pode baixar o [jogo](https://github.com/Sena-ops/Sky-in-Flames/releases/download/untagged-e3a0b9cd4cd966bae231/sky_in_flames_1.0.zip).
+Caso não tenha pode baixar o [jogo](https://github.com/Sena-ops/Sky-in-Flames/releases/download/games/sky_in_flames_1.0.zip).
 
 ## Autores
 - [Raphael Sena](https://github.com/Sena-ops) (Programmer)
